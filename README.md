@@ -1,6 +1,7 @@
 # Rive Vue.js Example Application
 
-Live example can be found here: https://rivevue.netlify.app/#/
+Original Live example can be found here: https://rivevue.netlify.app/#/
+## my version is at frankolious github pages [link] to come.
 
 
 
