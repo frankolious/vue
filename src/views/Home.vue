@@ -1,6 +1,8 @@
 <template>
   <div class="home">
     <HelloWorld />
+    <header><p>this is a header paragraph</p></header>
+    <h1>frankolious fiddles </h1>
   </div>
 </template>
 
